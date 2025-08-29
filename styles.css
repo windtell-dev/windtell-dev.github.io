@@ -5,6 +5,11 @@ body {
   margin: 0;
   line-height: 1.6;
 }
+.intro-title {
+  text-align: center;
+  font-size: 1.5rem;  /* optional: make it stand out */
+  margin-bottom: 1rem;
+}
 
 header {
   background: linear-gradient(135deg, rgb(107, 96, 128));
